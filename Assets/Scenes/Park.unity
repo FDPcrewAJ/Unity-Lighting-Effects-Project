@@ -2235,7 +2235,7 @@ MonoBehaviour:
   controller: {fileID: 823065981}
   anim: {fileID: 823065983}
   speed: 8
-  rotSpeed: 600
+  rotSpeed: 1500
   rot: 0
   gravity: 8
   running: 0
